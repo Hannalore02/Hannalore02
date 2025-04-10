@@ -1,7 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Hannalore! <br/><a href="https://github.com/Hannalore02">Computer Science Student at Oregon State University</a> 
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <!--
-**Hannalore02/Hannalore02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
