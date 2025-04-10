@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Senior Capstone Project</b>
-  - [VR Arcade Classics](https://github.com/Hannalore02/VR-Arcade-Classics-Capstone/edit/main/README.md#senior-capstone-project)
+  - [VR Arcade Classics](https://github.com/Hannalore02/VR-Arcade-Classics-Capstone/tree/main)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
